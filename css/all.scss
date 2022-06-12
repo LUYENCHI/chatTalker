@@ -15,7 +15,7 @@ h4{
 }
 
 .header{
-    background-image: url(./img/bg_home.svg);
+    background-image: url(../img/bg_home.svg);
     background-size: contain;
     background-position: right;
     background-repeat: no-repeat;
@@ -240,7 +240,7 @@ h4{
 
 
 .footer-box{
-    background-image: url(/img/home_footer.svg);
+    background-image: url(../img/home_footer.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -370,7 +370,7 @@ footer{
             }
         }
         .header-img{
-            background-image: url(/img/bg_home_sm.svg);
+            background-image: url(../img/bg_home_sm.svg);
             background-size: contain;
             background-repeat: no-repeat;
             background-position:center 50px;
@@ -446,7 +446,7 @@ footer{
     }
 
     .footer-box{
-        background-image: url(./img/bg-footer.png);
+        background-image: url(../img/bg-footer.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
