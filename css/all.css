@@ -87,10 +87,6 @@ html, body {
   color: #ffffff;
 }
 
-h4 {
-  font-size: 24px;
-}
-
 .top-btn img {
   position: fixed;
   width: 71px;
@@ -184,6 +180,7 @@ h4 {
 }
 
 .social .item ul li h4 {
+  font-size: 24px;
   margin: 24px 0;
 }
 
